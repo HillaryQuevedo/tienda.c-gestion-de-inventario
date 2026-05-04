@@ -12,7 +12,6 @@ int main() {
 
     if (cantidad > MAX) cantidad = MAX;
 
-    // Llamada a las funciones
     ingresarDatos(nombres, precios, cantidad);
 
     printf("\n--- RESULTADOS ---\n");
