@@ -1,4 +1,3 @@
-// Guardas para evitar errores de duplicación
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 
